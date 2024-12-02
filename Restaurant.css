@@ -333,13 +333,25 @@ footer{
 
 }
 .imgbebida{
-    width: 300px;
-    height: 200px;
+    width: 400px;
+    height: 300px;
     border-radius: 20px;
 }
 .cajabebida{
     padding: 20px;
 }
+/*----------------------------------------------------------------*/
+.contenedorpostres{
+    display: flex;
+    justify-content:center;
+    padding: 10px 10px 10px 10px;
+}
+.imgpostres{
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+}
+.cajapostres{
+    padding: 20px;
 
-
-
+}
